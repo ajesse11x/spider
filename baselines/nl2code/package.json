@@ -21,7 +21,7 @@
   "dependencies": {
     "sqlgenerate": "^1.2.1",
     "sqlite-parser": "^1.0.1",
-    "webpack": "^4.6.0"
+    "webpack": "^4.41.2"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
